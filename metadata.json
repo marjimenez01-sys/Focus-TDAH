@@ -1,0 +1,6 @@
+{
+  "name": "Focus TDAH",
+  "description": "Asistente personal minimalista para personas con TDAH y funciones ejecutivas: organización sin abrumar, modo baja concentración, medicación, hábitos y análisis inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
